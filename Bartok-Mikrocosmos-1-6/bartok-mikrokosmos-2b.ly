@@ -1,8 +1,8 @@
 \version "2.20"
 
 \header {
-  title = 	"Mikrokosomos 3"
-  subtitle = "Six Unison Melodies - III"
+  title = 	"Mikrokosomos 2b"
+  subtitle = "Six Unison Melodies - II"
   composer =	"Bela Bartok (1881-1945)"
   maintainer = 	"Tim Burgess"
   maintainerEmail = "timburgess@mac.com"
