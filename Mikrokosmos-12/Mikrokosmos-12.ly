@@ -15,8 +15,12 @@ righthand =  {
   \tempo 4 = 100
   \relative c'' {
   a2-2 b4 c d2 c d4 c b a b c d r
-  a2 b4 c d2 c d4 c b a g a b r c b a c
-
+  a2 b4 c d2 c d4 c b a g a b r c b a b
+  c b a b c b a b c b a g a2 b4 c d2 c
+  \time 3/2
+  d4 c b a b c
+  \time 2/2
+  d2 c d4 c b a b c d r
    \bar "|."
   }
 }
@@ -28,6 +32,11 @@ lefthand =  {
   \relative c' {
   g2-2 f4 e d2 e d4 e f g f e d r
   g2 f4 e d2 e d4 e f g a g f r e f g f
+  e f g f e f g f e f g a g2 f4 e d2 e
+  \time 3/2
+  d4 e f g f e
+  \time 2/2
+  d2 e f4 r r g f e d r
   \bar "|."
   }
 }
