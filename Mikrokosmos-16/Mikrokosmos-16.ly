@@ -1,7 +1,7 @@
 \version "2.20"
 
 \header {
-  title = "Mikrokosomos 6"
+  title = "Mikrokosomos 16"
   subtitle = "Parallel Motion with Change of Position"
   composer = "Bela Bartok (1881-1945)"
   maintainer = "Tim Burgess"
@@ -15,8 +15,8 @@ righthand =  {
   \tempo 4 = 104
   \relative c' {
   f2-4 g f e4 d e d c d e2 f g1
-  f2 e4 d c2 d e r
-  c'-4 d c b4 a b c b a g2 a4 b c b a2 b a g r
+  f2 e4 d c2 d e r \break
+  c'-4 d c b4 a b c b a g2 a4 b c b a2 b a g r \break
   f-4 g f e4 d c2 d e1
   f4 e2 d4 c2 d c1 
    \bar "|."
@@ -29,8 +29,8 @@ lefthand =  {
   \clef "bass"
   \relative c {
   d2-2 e d c4 b c b a b c2 d e1
-  d2 c4 b a2 b c r
-  e-2 f e b4 a b c b a g2 c4 d e d c2 d c b r
+  d2 c4 b a2 b c r \break
+  e-2 f e d4 c d e d c b2 c4 d e d c2 d c b r  \break
   d-2 e d c4 b a2 b c1
   d4 c2 b4 a2 b c1
   \bar "|."
