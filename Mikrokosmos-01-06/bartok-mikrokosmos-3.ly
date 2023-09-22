@@ -1,7 +1,7 @@
-\version "2.20"
+\version "2.22"
 
 \header {
-  title = 	"Mikrokosomos 3"
+  title = 	"Mikrokosmos 3"
   subtitle = "Six Unison Melodies - III"
   composer =	"Bela Bartok (1881-1945)"
   maintainer = 	"Tim Burgess"

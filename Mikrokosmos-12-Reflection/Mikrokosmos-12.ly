@@ -1,7 +1,7 @@
-\version "2.20"
+\version "2.22"
 
 \header {
-  title = "Mikrokosomos 12"
+  title = "Mikrokosmos 12"
   subtitle = "Reflection"
   composer = "Bela Bartok (1881-1945)"
   maintainer = "Tim Burgess"
