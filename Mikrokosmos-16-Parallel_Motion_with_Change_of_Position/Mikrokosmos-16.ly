@@ -1,7 +1,7 @@
-\version "2.20"
+\version "2.22"
 
 \header {
-  title = "Mikrokosomos 16"
+  title = "Mikrokosmos 16"
   subtitle = "Parallel Motion with Change of Position"
   composer = "Bela Bartok (1881-1945)"
   maintainer = "Tim Burgess"
