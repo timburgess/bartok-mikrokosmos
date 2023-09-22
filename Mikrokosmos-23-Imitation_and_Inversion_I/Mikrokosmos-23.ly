@@ -1,7 +1,7 @@
 \version "2.22"
 
 \header {
-  title = "Mikrokosmos 22"
+  title = "Mikrokosmos 23"
   subtitle = "Imitation and Inversion (I)"
   composer = "Bela Bartok (1881-1945)"
   maintainer = "Tim Burgess"
