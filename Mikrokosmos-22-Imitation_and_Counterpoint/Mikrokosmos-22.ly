@@ -14,7 +14,7 @@ righthand =  {
   \clef "treble"
   \tempo 4 = 136
   \relative c'' {
-  r1-1 | g2( a4 b | c2 b2 | a2 b4 c | d1~ | d4 c b a | \break
+  r1\f | g2-1( a4 b | c2 b2 | a2 b4 c | d1~ | d4 c b a | \break
   g2 a4 b c1) |
   d2( c4 b |  a2 b2) | r4 c( b a | \break
   g2 a2) b4( a b c b a g2 a1~ a1)
