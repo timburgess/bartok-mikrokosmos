@@ -14,7 +14,7 @@ righthand =  {
   \clef "treble"
   \tempo 4 = 100
   \relative c'' {
-  a2-2 b4 c d2 c d4 c b a b c d r
+  a2-2 b4 c d2 c d4 c b a b c d r \break
   a2 b4 c d2 c d4 c b a g a b r c b a b
   c b a b c b a b c b a g a2 b4 c d2 c
   \time 3/2
