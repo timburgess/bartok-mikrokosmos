@@ -1,4 +1,4 @@
-\version "2.22"
+\version "2.24"
 
 \header {
   title = "Mikrokosmos 25"
@@ -9,7 +9,7 @@
 }
 
 righthand =  {
-  \key d \major
+  \key c \major
   \numericTimeSignature \time 2/4
   \clef "treble"
   \tempo 4 = 150
@@ -24,7 +24,7 @@ righthand =  {
 }
 
 lefthand =  {
-  \key d \major
+  \key c \major
   \numericTimeSignature \time 2/4
   \clef "bass"
   \relative c {
